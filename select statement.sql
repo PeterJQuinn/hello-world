@@ -1,2 +1,2 @@
 USE myDatabase
-SELECT * FROM dbo.Orders
+SELECT * FROM dbo.Orderlines
